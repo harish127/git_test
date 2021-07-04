@@ -36,5 +36,7 @@ little time to understand how to apply on page.
 One thing i used in this page that makes it worst is adding percentage to item attribute as on hovering buttons move items down as border of button gets
 added.
 
+i have made the page and css then i read that while creating the page commit changes. 
+
 Im happy to complete this assignment which was my main goal.         
        
