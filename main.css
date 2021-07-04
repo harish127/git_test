@@ -1,0 +1,128 @@
+body{
+margin:0% 0% 0% 0%;
+}
+
+button{
+border:none;
+outline:none;
+}
+
+button:hover{
+cursor:pointer;
+}
+
+body, a, p {
+font-family: arial,sans-serif;
+font-size:small;
+color:#222;
+}
+
+a{
+text-decoration:none;
+padding-right:4px;
+}
+
+a:hover{
+color:black;
+text-decoration:underline;
+}
+
+.navbar{
+display:flex;
+flex-direction:row;
+}
+
+header{
+padding:10px 5px;
+}
+
+.foot{
+display:flex;
+padding:10px;
+background-color:#F5F5F5;
+border-top:1px solid #D3D3D3;
+}
+
+#leftitm> a, #rightitm >a{
+color:#808080;
+}
+
+#leftitm> a:hover, #rightitm >a:hover{
+color:#222;
+}
+
+.navbar ,.cntr ,header, .center-box{
+align-items:center;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6%;
+    padding-bottom: 22%;
+
+}
+
+.navbar, .spbw{
+justify-content:space-between;
+}
+
+#sbtn{
+padding-top:20px;
+margin-left:146px;
+}
+
+#sbtn>button{
+
+margin-right:10px;
+padding:10px 25px;
+}
+
+#sbtn>button:hover{
+border:1px solid #D3D3D3;
+}
+
+#signbtn{
+padding:10px 15px;
+background-color:#4285F4;
+color:white;
+border-radius:5%;
+font-weight:bold;
+}
+
+#sb{
+outline:none;
+border:none;
+//padding:10px;
+margin-bottom:5px;
+width:500px;
+height:20px;
+
+}
+
+.sbcontainer>.material-icons {
+line-height:0px;
+}
+
+.sbcontainer{
+margin-top:10px;
+border: 1px solid #D3D3D3;
+border-radius:20px 20px;
+padding: 5px 10px;
+}
+
+.sbcontainer:hover{
+box-shadow:0px 0px 8px 1px #BEBEBE;
+}
+
+#sch{
+text-decoration:none;
+padding:10px;
+}
+
+.logo{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
